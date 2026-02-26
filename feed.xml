@@ -1,32 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>AI Daily Pulse</title>
+    <item><title>Daily 2-Minute AI News – 2026-02-26</title><description>Today's AI headlines: Pentagon vs Anthropic AI dispute, OpenAI accuses DeepSeek, India mandates AI content labeling, Massachusetts deploys government AI, MIT's drug development breakthrough, and YouTube's smart TV AI.</description><pubDate>Thu, 26 Feb 2026 06:15:34 +0000</pubDate><guid isPermaLink="false">Daily 2-Minute AI News – 2026-02-26-20260226</guid><enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-26_AI_Daily_Pulse.mp3" type="audio/mpeg" length="462957" /></item><title>AI Daily Pulse</title>
     <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
     <language>en-us</language>
     <description>Your daily 2-minute briefing on the most sensational AI news</description>
-    <itunes:summary>Your daily 2-minute briefing on the most sensational AI news</itunes:summary>
-    <itunes:author>Megha</itunes:author>
-    <itunes:owner>
-      <itunes:name>Megha</itunes:name>
-    </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Technology"/>
-    <itunes:type>episodic</itunes:type>
-    <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns0:summary>Your daily 2-minute briefing on the most sensational AI news</ns0:summary>
+    <ns0:author>Megha</ns0:author>
+    <ns0:owner>
+      <ns0:name>Megha</ns0:name>
+    </ns0:owner>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:category text="Technology" />
+    <ns0:type>episodic</ns0:type>
+    <ns1:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test Episode - 2026-02-23</title>
       <description>Test episode for podcast automation</description>
-      <itunes:summary>Test episode for podcast automation</itunes:summary>
-      <itunes:author>Megha</itunes:author>
-      <itunes:duration>18</itunes:duration>
-      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-23_AI_Daily_Pulse.mp3" length="370560" type="audio/mpeg"/>
+      <ns0:summary>Test episode for podcast automation</ns0:summary>
+      <ns0:author>Megha</ns0:author>
+      <ns0:duration>18</ns0:duration>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-23_AI_Daily_Pulse.mp3" length="370560" type="audio/mpeg" />
       <guid isPermaLink="true">https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-23_AI_Daily_Pulse.mp3</guid>
       <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-  </channel>
+  <lastBuildDate>Thu, 26 Feb 2026 06:15:34 +0000</lastBuildDate></channel>
 </rss>

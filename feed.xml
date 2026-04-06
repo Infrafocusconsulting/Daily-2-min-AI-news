@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <item><title>Daily 2-Minute AI News – 2026-02-26</title><description>Today's AI headlines: Pentagon vs Anthropic AI dispute, OpenAI accuses DeepSeek, India mandates AI content labeling, Massachusetts deploys government AI, MIT's drug development breakthrough, and YouTube's smart TV AI.</description><pubDate>Thu, 26 Feb 2026 06:15:34 +0000</pubDate><guid isPermaLink="false">Daily 2-Minute AI News – 2026-02-26-20260226</guid><enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-26_AI_Daily_Pulse.mp3" type="audio/mpeg" length="462957" /></item><title>AI Daily Pulse</title>
+    <title>AI Daily Pulse</title>
     <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
     <language>en-us</language>
     <description>Your daily 2-minute briefing on the most sensational AI news</description>
@@ -26,5 +26,5 @@
       <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
       <ns0:explicit>false</ns0:explicit>
     </item>
-  <lastBuildDate>Thu, 26 Feb 2026 06:15:34 +0000</lastBuildDate></channel>
+  <lastBuildDate>Sun, 06 Apr 2026 05:05:00 +0100</lastBuildDate><item><title>Daily 2-Minute AI News – 2026-04-06</title><link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3</link><description>Google releases Gemma 4 open-source models, OpenAI acquires TBPN tech show, Meta expands AI hardware team, Google unveils TurboQuant breakthrough, GPT-5.4 surpasses human performance, and SpaceX acquires xAI for 50 billion.</description><pubDate>Sun, 06 Apr 2026 05:05:00 +0100</pubDate><guid isPermaLink="true">https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3</guid><enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3" length="1959168" type="audio/mpeg" /></item></channel>
 </rss>

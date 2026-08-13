@@ -14,17 +14,13 @@
     <ns0:category text="Technology" />
     <ns0:type>episodic</ns0:type>
     <ns1:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 13 Aug 2026 09:35:14 -0000</lastBuildDate>
     <item>
-      <title>Test Episode - 2026-02-23</title>
-      <description>Test episode for podcast automation</description>
-      <ns0:summary>Test episode for podcast automation</ns0:summary>
-      <ns0:author>Megha</ns0:author>
-      <ns0:duration>18</ns0:duration>
-      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-23_AI_Daily_Pulse.mp3" length="370560" type="audio/mpeg" />
-      <guid isPermaLink="true">https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-02-23_AI_Daily_Pulse.mp3</guid>
-      <pubDate>Mon, 23 Feb 2026 08:00:00 GMT</pubDate>
-      <ns0:explicit>false</ns0:explicit>
+      <title>Daily 2-Minute AI News – 2026-08-13</title>
+      <description>Rise of AI shopping pushes merchants to protect loyalty | When Texas Cools on AI Data Centers, Big Tech Has a Pro | An inside look at SK Hynix $720 billion AI-fueled build</description>
+      <pubDate>Thu, 13 Aug 2026 09:35:14 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-08-13_AI_Daily_Pulse.mp3" length="902400" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-08-13_AI_Daily_Pulse.mp3</guid>
     </item>
-  <lastBuildDate>Sun, 06 Apr 2026 05:05:00 +0100</lastBuildDate><item><title>Daily 2-Minute AI News – 2026-04-06</title><link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3</link><description>Google releases Gemma 4 open-source models, OpenAI acquires TBPN tech show, Meta expands AI hardware team, Google unveils TurboQuant breakthrough, GPT-5.4 surpasses human performance, and SpaceX acquires xAI for 50 billion.</description><pubDate>Sun, 06 Apr 2026 05:05:00 +0100</pubDate><guid isPermaLink="true">https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3</guid><enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-04-06_AI_Daily_Pulse.mp3" length="1959168" type="audio/mpeg" /></item></channel>
+  </channel>
 </rss>

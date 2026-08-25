@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, The Guardian poses an intriguing question: has AI improved or worsened Google search? As AI continues to evolve, many users are debating whether the results they receive are more relevant or if they've become diluted by algorithmic bias. 
+
+Next, Reuters highlights a pressing issue in the U.S. — the fiscal hole has an AI problem at its core. The government is grappling with how AI tools can both exacerbate financial challenges and offer solutions, sparking discussions about regulation and responsibility. 
+
+In financial news, Reuters reports that the tech world is eagerly awaiting Nvidia's next move, which could signal a new leg in the ongoing AI market rally. Investors are keeping a close eye on Nvidia’s announcements, as they could impact stock prices across the board. 
+
+Meanwhile, another story from Reuters reveals that AI chipmaker Enflame is gearing up for a near $900 million IPO in Shanghai, setting a subscription date that has investors buzzing about the potential of AI hardware. 
+
+Shifting gears, CNBC reports that Porsche has inked a staggering $1.5 billion deal with Tata Consultancy, India’s largest IT services firm, to deploy AI technologies in their operations, signaling a major shift in the automotive industry. 
+
+Finally, The Wall Street Journal discusses why your boss might want to ensure AI can read your Slack messages. This reflects a growing interest in workplace efficiency and the role AI can play in enhancing communication. 
+
+That's all for today's AI Daily Pulse. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

@@ -14,7 +14,14 @@
     <ns0:category text="Technology" />
     <ns0:type>episodic</ns0:type>
     <ns1:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 27 Aug 2026 05:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:00:41 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-08-28</title>
+      <description>Opinion | How the U.S. can beat China in Africa’s AI ra | Vietnam urges Qualcomm, Samsung to deepen AI, chip inve | Trump administration illegally retaliated against Anthr</description>
+      <pubDate>Fri, 28 Aug 2026 05:00:41 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-08-28_AI_Daily_Pulse.mp3" length="1776384" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-08-28_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-08-27</title>
       <description>Over 1,000 AI agents worked together in OpenAI hack, re | Are economists making themselves too useful in the AI b | Z.ai shares surge 8% after releasing new AI model runni</description>

@@ -1,19 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>AI Daily Pulse</title>
+    <title>AI Daily Pulse in 2 minutes</title>
     <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
     <language>en-us</language>
+    <image>
+      <url>https://infrafocusconsulting.github.io/Daily-2-min-AI-news/AI_Daily_Pulse_Cover_Art.png</url>
+      <title>AI Daily Pulse in 2 minutes</title>
+      <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
+    </image>
     <description>Your daily 2-minute briefing on the most sensational AI news</description>
-    <ns0:summary>Your daily 2-minute briefing on the most sensational AI news</ns0:summary>
-    <ns0:author>Megha</ns0:author>
-    <ns0:owner>
-      <ns0:name>Megha</ns0:name>
-    </ns0:owner>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:category text="Technology" />
-    <ns0:type>episodic</ns0:type>
-    <ns1:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:summary>Your daily 2-minute briefing on the most sensational AI news</itunes:summary>
+    <itunes:author>Megha</itunes:author>
+    <itunes:owner>
+      <itunes:name>Megha</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:type>episodic</itunes:type>
+    <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
     <lastBuildDate>Wed, 02 Sep 2026 05:06:18 -0000</lastBuildDate>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-02</title>
@@ -176,5 +181,6 @@
       <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-08-13_AI_Daily_Pulse.mp3" length="902400" type="audio/mpeg" />
       <guid isPermaLink="false">ai-daily-pulse-2026-08-13_AI_Daily_Pulse.mp3</guid>
     </item>
+    <itunes:image href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/AI_Daily_Pulse_Cover_Art.png" />
   </channel>
 </rss>

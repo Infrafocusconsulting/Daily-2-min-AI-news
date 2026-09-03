@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, New York City has decided to ban generative AI tools in high schools. This move, reported by The Washington Post, aims to address concerns about academic integrity and the potential misuse of AI in educational settings. 
+
+In investment news, The Wall Street Journal highlights a trend where investors are seeking AI-proof assets. They're turning their eyes towards sports, casinos, and travel, industries that seem more resilient against the rapid changes AI brings to the market. 
+
+Meanwhile, Snowflake has raised its annual revenue forecast due to strong demand for cloud and AI services, causing shares to soar, as reported by Reuters. This signals a growing optimism in how businesses are leveraging AI for better data management. 
+
+Equinix is carving out a niche in the multitrillion-dollar AI market, according to CNBC. Their focus on data centers is proving essential as companies increasingly rely on AI technologies, positioning Equinix as a key player in this evolving landscape. 
+
+In a global context, tech CEOs and the Trump administration are urging the G-20 to adopt proactive measures on AI regulation, as highlighted by The Wall Street Journal. This call reflects the urgent need for international collaboration on AI governance. 
+
+Lastly, HPE has raised its forecasts in light of surging AI demand, yet shares fell due to supply concerns, according to Reuters. This shows the balancing act companies face as they navigate growth opportunities alongside operational challenges. 
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

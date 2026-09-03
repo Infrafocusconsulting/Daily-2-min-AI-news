@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 02 Sep 2026 05:06:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 05:00:37 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-03</title>
+      <description>New York City to ban generative AI until high school | The Hunt for AI-Proof Assets Is Leading Investors to Sp | Snowflake lifts annual revenue forecast on cloud and AI</description>
+      <pubDate>Thu, 03 Sep 2026 05:00:37 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-03_AI_Daily_Pulse.mp3" length="1835904" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-03_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-02</title>
       <description>AI chatbot helps teach online-only psychology classes a | A.I. Is to Be Banned in N.Y.C. Elementary and Middle Sc | AI Startup Cognition Set to Raise Around $1 Billion at </description>

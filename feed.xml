@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 04 Sep 2026 05:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-05</title>
+      <description>Seattle Times, Newsday sue OpenAI, Microsoft, alleging  | As AI madness encroaches, we need human connection more | Court Filings In A.I. Suit Invoke Copyright Law, Cultur</description>
+      <pubDate>Sat, 05 Sep 2026 05:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-05_AI_Daily_Pulse.mp3" length="1783680" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-05_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-04</title>
       <description>OpenAI’s president claims AI is as capable as humans no | America must learn AI lessons from Astro Boy | Another big school district bans generative AI, this ti</description>

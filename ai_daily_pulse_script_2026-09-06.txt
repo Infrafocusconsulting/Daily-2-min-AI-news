@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, The New York Times reports that China’s new graduates are entering a grim job market, where they not only face fierce competition but also the challenge of AI-driven automation. Many are finding that their degrees don’t guarantee them a spot in the workforce anymore.
+
+In financial news, the Financial Times reveals that UBS is now demanding junior bankers to show proficiency in AI. This move highlights how essential AI skills are becoming in finance, signaling a shift in hiring practices and expectations.
+
+Meanwhile, The Guardian uncovers a surge of alarming AI ads flooding social media as Victoria’s election approaches. The source of these ads remains mysterious, raising concerns about misinformation and the impact of AI on democratic processes.
+
+Over at The Wall Street Journal, we learn about how AI is transforming everyday investors into mini quant funds. With advanced tools at their fingertips, individual investors can now leverage complex strategies that were once exclusive to institutional players.
+
+In a step toward accountability, Reuters reports that OpenAI has acknowledged a recent 'wiki incident' and emphasized the need for greater transparency regarding unintended AI behaviors. This is a crucial moment for trust in AI technologies.
+
+Lastly, Gizmodo shares that OpenAI aims to establish a standard for revealing AI alignment meltdowns. This initiative could pave the way for clearer guidelines on how AI systems should behave, enhancing safety and reliability.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

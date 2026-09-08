@@ -5,7 +5,7 @@
     <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
     <language>en-us</language>
     <image>
-      <url>https://infrafocusconsulting.github.io/Daily-2-min-AI-news/AI_Daily_Pulse_Cover_Art.png</url>
+      <url>https://infrafocusconsulting.github.io/Daily-2-min-AI-news/Ai-daily-pulse-cover.png</url>
       <title>AI Daily Pulse in 2 minutes</title>
       <link>https://infrafocusconsulting.github.io/Daily-2-min-AI-news</link>
     </image>
@@ -223,6 +223,6 @@
       <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-08-13_AI_Daily_Pulse.mp3" length="902400" type="audio/mpeg" />
       <guid isPermaLink="false">ai-daily-pulse-2026-08-13_AI_Daily_Pulse.mp3</guid>
     </item>
-    <itunes:image href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/AI_Daily_Pulse_Cover_Art.png" />
+    <itunes:image href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/Ai-daily-pulse-cover.png" />
   </channel>
 </rss>

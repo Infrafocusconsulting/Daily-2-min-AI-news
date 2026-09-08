@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, the Financial Times reports that AI is ushering in an era of mass toe, revolutionizing how we approach everything from healthcare to transportation. This transformative shift suggests that AI could enhance efficiency and innovation across multiple sectors.
+
+In other news, Reuters reveals that Nvidia-backed Firmus has signed a significant deal with OpenAI to expand data center capacity in Malaysia. This partnership signals a growing commitment to enhancing AI capabilities in the region, which could lead to exciting advancements in technology.
+
+Meanwhile, The Guardian highlights a shake-up in the UK’s AI policy landscape, as the architect of the country's AI strategy has resigned amid concerns of a conflict of interest linked to Anthropic. This resignation raises questions about governance and ethical oversight in AI development.
+
+In a more optimistic note, The Guardian also reports that industry leaders are reassuring designers that they shouldn't fear being replaced by AI. Instead, they emphasize that AI can be a tool for collaboration, enhancing creativity rather than diminishing it.
+
+On a cautionary front, the BBC shares that the UK’s biggest tech boss warns that the development of AI cancer cures is being hampered by a chip shortage. This highlights the critical intersection of hardware availability and groundbreaking medical research.
+
+Finally, Bloomberg discusses the complex landscape of trust in AI, stating that you don't have to trust Chinese AI. This ongoing debate underscores the importance of transparency and accountability in AI technologies globally.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

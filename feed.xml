@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 05:00:14 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:00:15 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-08</title>
+      <description>AI is ushering in an era of mass toe | Nvidia-backed Firmus signs deal with OpenAI for Malaysi | Architect of UK’s AI policy quits after Anthropic confl</description>
+      <pubDate>Tue, 08 Sep 2026 05:00:15 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-08_AI_Daily_Pulse.mp3" length="1939968" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-08_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-07</title>
       <description>Designers should not fear being replaced by AI, industr | Taiwan flexes chip diplomacy muscles as it faces pressu | When A.I. Starts Scheming</description>

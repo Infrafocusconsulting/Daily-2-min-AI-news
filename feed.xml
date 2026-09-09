@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 08 Sep 2026 05:00:15 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-09</title>
+      <description>OpenAI offers AI for chip design, touts cost advantage  | Exclusive | Anthropic Researcher Quits Over ‘Out-of | Jim Cramer says investors are too focused on AI stocks.</description>
+      <pubDate>Wed, 09 Sep 2026 05:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-09_AI_Daily_Pulse.mp3" length="1894656" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-09_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-08</title>
       <description>AI is ushering in an era of mass toe | Nvidia-backed Firmus signs deal with OpenAI for Malaysi | Architect of UK’s AI policy quits after Anthropic confl</description>

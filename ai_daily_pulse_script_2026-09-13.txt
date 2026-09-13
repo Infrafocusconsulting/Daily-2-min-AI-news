@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, a recent report highlighted that many AI staff are genuinely frightened about the future of humanity, as shared by the BBC. This sentiment reflects growing concerns over the ethical implications of AI technologies and their potential impact on society. 
+
+In political news, former President Obama urged Democrats to prioritize AI oversight, according to The New York Times. He emphasized the need for a thoughtful approach to regulation that keeps pace with rapid advancements in the field.
+
+Meanwhile, China's data regulator is pushing for new standards for embodied AI, as reported by Bloomberg. This move aims to ensure that AI systems interacting with the physical world operate safely and ethically, which is crucial for public trust.
+
+On the market front, a company called Quant AI is striving to build an intelligence layer for global markets, and they already have over 400,000 people on their waiting list, according to Business Insider. This shows a strong appetite for innovative AI solutions in finance.
+
+In a rare alignment, major AI rivals have agreed that slowing down AI development is necessary, as noted by The Wall Street Journal. This consensus highlights the importance of addressing safety concerns before moving forward.
+
+Lastly, OpenAI's CEO Sam Altman announced that an IPO will not happen in 2026 due to ongoing fears about AI safety, according to The Guardian. This decision reflects the cautious approach many tech leaders are taking in light of recent developments.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

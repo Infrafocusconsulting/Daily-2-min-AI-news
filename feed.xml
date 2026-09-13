@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 09 Sep 2026 05:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:00:14 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-13</title>
+      <description>AI staff 'genuinely frightened' for humanity's future,  | Obama Urges Democrats to Move A.I. Oversight to the Cen | China’s Data Regulator Plans Standards Push for Embodie</description>
+      <pubDate>Sun, 13 Sep 2026 05:00:14 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-13_AI_Daily_Pulse.mp3" length="1856640" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-13_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-09</title>
       <description>OpenAI offers AI for chip design, touts cost advantage  | Exclusive | Anthropic Researcher Quits Over ‘Out-of | Jim Cramer says investors are too focused on AI stocks.</description>

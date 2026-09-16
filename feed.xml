@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 15 Sep 2026 05:00:16 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-16</title>
+      <description>China's AI leaders keep quiet despite U.S. 'publicity'  | China Defense Minister Urges Nations to Step Up AI Over | Meta's Zuckerberg says AI labs have enough incentive to</description>
+      <pubDate>Wed, 16 Sep 2026 05:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-16_AI_Daily_Pulse.mp3" length="1822848" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-16_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-15</title>
       <description>AI Is Transforming Business. Now It’s Transforming the  | AI regulation faces political deadlock as calls grow fo | AI CEOs say they need to slow the pace of development. </description>

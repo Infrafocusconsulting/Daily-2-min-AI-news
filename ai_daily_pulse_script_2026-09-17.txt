@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, U.S. Catholic bishops recently met with AI firms to discuss the potential "catastrophic" risks associated with artificial intelligence. This dialogue highlights the growing concern among religious leaders about the ethical implications of AI technology, as reported by The Washington Post.
+
+In energy news, Bloomberg brings us insights on how to stop data centers from consuming excessive power. As AI continues to grow, so do the energy demands of these facilities, leading to urgent discussions about sustainability in the tech industry.
+
+Meanwhile, OpenAI is taking steps to improve transparency by disclosing safety incidents, revealing ongoing issues that need to be addressed. The BBC reports that this move reflects a commitment to accountability in AI development.
+
+In a notable personal story, an anonymous math expert who left Anthropic has become a prominent advocate for AI safety. The Wall Street Journal tells us how this individual is now a key voice in the conversation around responsible AI practices.
+
+Continuing with OpenAI, they disclosed six new incidents of concerning AI behavior, as noted by The New York Times. This revelation further emphasizes the need for vigilance as AI technologies evolve.
+
+Lastly, there's a tussle inside the White House to influence Trump's stance on AI policy. The Wall Street Journal highlights how this debate could shape the future regulatory landscape for artificial intelligence.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 17 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-18</title>
+      <description>Anthropic says its chatbot Claude is taking over the wo | The U.S. and China Want AI Guardrails. But Their Ideas  | Tech Companies’ Staff Knew Their AI Tools Posed ‘Existe</description>
+      <pubDate>Fri, 18 Sep 2026 05:00:09 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-18_AI_Daily_Pulse.mp3" length="1919616" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-18_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-17</title>
       <description>U.S. Catholic bishops meet with AI firms about ‘catastr | How to Stop Data Centers From Grabbing Too Much Power | OpenAI sets plan to disclose safety incidents and revea</description>

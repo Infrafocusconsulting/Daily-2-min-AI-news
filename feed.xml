@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 05:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:00:12 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-20</title>
+      <description>Burned Out and Unemployed, Young People in China Are La | Lawsuit says Anthropic, OpenAI, SpaceXAI and Google mad | Trump says he will appoint a new AI adviser, without pr</description>
+      <pubDate>Sun, 20 Sep 2026 05:00:12 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-20_AI_Daily_Pulse.mp3" length="1821696" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-20_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-19</title>
       <description>Using Killer Robots to Get a Regulatory Moat for AI | Google's Gemini AI hacked three companies in security t | Google says its Gemini AI model hacked three other comp</description>

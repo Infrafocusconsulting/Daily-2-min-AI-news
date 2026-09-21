@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 05:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-21</title>
+      <description>AI in finance must be policed differently | Australia to Rely on AI to Spur Growth as Global Tensio | US proposes AI incident alert system in talks with Chin</description>
+      <pubDate>Mon, 21 Sep 2026 05:00:09 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-21_AI_Daily_Pulse.mp3" length="1788288" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-21_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-20</title>
       <description>Burned Out and Unemployed, Young People in China Are La | Lawsuit says Anthropic, OpenAI, SpaceXAI and Google mad | Trump says he will appoint a new AI adviser, without pr</description>

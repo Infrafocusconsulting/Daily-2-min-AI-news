@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-22</title>
+      <description>War, runaway AI and climate shocks to take center stage | AI staff complain of mental toll over fears of threat t | Alibaba plans AI model with 5 trillion to 10 trillion p</description>
+      <pubDate>Tue, 22 Sep 2026 05:00:09 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-22_AI_Daily_Pulse.mp3" length="1869312" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-22_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-21</title>
       <description>AI in finance must be policed differently | Australia to Rely on AI to Spur Growth as Global Tensio | US proposes AI incident alert system in talks with Chin</description>

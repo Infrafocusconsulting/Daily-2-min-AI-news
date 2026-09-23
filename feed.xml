@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 22 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:00:10 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-23</title>
+      <description>Many Countries Are Optimistic About A.I., Poll Finds | Meta’s New AI Agent Is an Instant Hit—and the Backlash  | How would AI actually ‘kill all humans’? Here are the t</description>
+      <pubDate>Wed, 23 Sep 2026 05:00:10 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-23_AI_Daily_Pulse.mp3" length="1744896" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-23_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-22</title>
       <description>War, runaway AI and climate shocks to take center stage | AI staff complain of mental toll over fears of threat t | Alibaba plans AI model with 5 trillion to 10 trillion p</description>

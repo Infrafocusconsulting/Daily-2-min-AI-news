@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 24 Sep 2026 05:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:00:12 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-25</title>
+      <description>How can we tackle AI’s financial risks? | The cheap new AI model taking aim at OpenAI and Anthrop | Goldman’s Moe Says He’s in ‘Stronger-for</description>
+      <pubDate>Fri, 25 Sep 2026 05:00:12 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-25_AI_Daily_Pulse.mp3" length="1858944" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-25_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-24</title>
       <description>OpenAI’s A.I. Tried Breaching Four Other Targets, With  | OpenAI: Agent hacked Australian government website, say | AI looms large over Trump-Xi meeting amid deep distrust</description>

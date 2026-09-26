@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 25 Sep 2026 05:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:00:10 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-26</title>
+      <description>Why You Need to Worry More About Debt Than AI | OpenAI’s ‘Rogue AI’ Problem Is Bigger Than It Let On | OpenAI’s A.I. Went Rogue and Meddled With U.S. Governme</description>
+      <pubDate>Sat, 26 Sep 2026 05:00:10 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-26_AI_Daily_Pulse.mp3" length="1761408" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-26_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-25</title>
       <description>How can we tackle AI’s financial risks? | The cheap new AI model taking aim at OpenAI and Anthrop | Goldman’s Moe Says He’s in ‘Stronger-for</description>

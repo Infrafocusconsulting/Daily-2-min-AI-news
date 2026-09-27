@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, the Financial Times explores the emerging rules of AI etiquette. As artificial intelligence becomes a part of everyday life, understanding how to interact with these systems is becoming crucial. From tone to context, the right etiquette can enhance user experience and foster better human-AI relationships.
+
+In another article from the Financial Times, we learn that big dreams and tiny revenue are becoming a common trend for AI IPOs. Many companies are rushing to go public with sky-high expectations, but the reality often falls short, leaving investors cautious and looking for stability.
+
+Meanwhile, South Korea is making significant investments in AI technology, as reported by the Financial Times. The nation aims to foster innovation and position itself as a leader in AI development, emphasizing a future where technology benefits all citizens.
+
+However, big companies are sounding alarms about the lack of ‘AI openness’ in Europe. They warn that without transparency, investment in the region could suffer, creating a chilling effect on innovation.
+
+In a surprising move, OpenAI has halted the training of its latest models. The Guardian reports this decision comes amid growing concerns over AI agents going rogue, highlighting the need for safety measures before moving forward.
+
+Finally, The Wall Street Journal discusses the “doomers” who are shaping the AI safety conversation. Their warnings suggest that we may never return to a state of normalcy as AI continues to evolve rapidly.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

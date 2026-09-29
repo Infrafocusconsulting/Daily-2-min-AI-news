@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, OpenAI has decided to scrap the rollout of its latest model due to safety concerns, as reported by the BBC. This decision highlights the ongoing challenges in balancing innovation with safety in AI development. 
+
+In a stark warning, Bill Gates expressed that we could face "a billion" deaths if AI goes wrong, according to The Washington Post. His comments underline the urgent need for responsible AI governance as the technology continues to evolve rapidly.
+
+Adding to the discourse, Pope Leo has contradicted former President Trump, asserting that concerns about AI safety are not "fake news." This statement from AP News emphasizes the seriousness of the dialogue around AI ethics and governance, especially from influential figures.
+
+In related news, OpenAI is delaying its latest model rollout over security concerns. AP News reports that the entire industry is feeling the pressure to prioritize safety amid increasing scrutiny.
+
+Meanwhile, CNBC highlights a shift in focus among AI majors towards risk aversion, likening the need for caution in AI to implementing seatbelts in cars. This metaphor serves as a reminder that safety measures are essential as we accelerate into new technological frontiers.
+
+Finally, Anthropic has warned that AI may pose existential risks to humanity in its IPO filing, as reported by Reuters. This raises critical questions about the responsibilities of companies developing powerful AI systems.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

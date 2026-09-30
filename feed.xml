@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:00:11 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-09-30</title>
+      <description>Breakingviews - COMMENTARY: Chinese labs are wild cards | Trump announces vague ‘morally binding’ AI deal among t | Trump Backs Independent AI Audits in Shift of Safety Po</description>
+      <pubDate>Wed, 30 Sep 2026 05:00:11 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-09-30_AI_Daily_Pulse.mp3" length="1747584" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-09-30_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-09-29</title>
       <description>OpenAI scraps rollout of new model over safety concerns | Bill Gates warns of ‘a billion’ deaths if AI goes wrong | Contradicting Trump, Pope Leo says artificial intellige</description>

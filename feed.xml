@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 01 Oct 2026 05:00:10 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:00:12 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-02</title>
+      <description>China’s Push into A.I. Has Led to a Problem: Too Much U | We don’t need to panic about AI. We need to hold its cr | Interpol says AI is increasing the speed and scale of c</description>
+      <pubDate>Fri, 02 Oct 2026 05:00:12 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-02_AI_Daily_Pulse.mp3" length="1714560" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-02_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-01</title>
       <description>AI pressure, client caution cloud Indian IT earnings in | Ben Affleck Worries More About AI Impact on Kids Than H | AI boom could trigger market shocks, Bank of England bo</description>

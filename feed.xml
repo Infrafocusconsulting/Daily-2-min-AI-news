@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 05:07:33 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:00:12 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-03</title>
+      <description>Students turn to lawyers to fight AI misconduct accusat | The coming futures market in AI compute | Opinion | Cartoon by Matt Davies</description>
+      <pubDate>Sat, 03 Oct 2026 05:00:12 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-03_AI_Daily_Pulse.mp3" length="1784832" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-03_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-02</title>
       <description>China’s Push into A.I. Has Led to a Problem: Too Much U | We don’t need to panic about AI. We need to hold its cr | Interpol says AI is increasing the speed and scale of c</description>

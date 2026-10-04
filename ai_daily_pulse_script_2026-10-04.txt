@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+First up, the Wall Street Journal reports that the new AI czar has unveiled the goals for a White House task force aimed at overseeing the rapidly evolving technology landscape. This initiative is crucial as it seeks to address both the potential benefits and risks associated with AI.
+
+In related news, Bloomberg has revealed that this US AI Task Force will soon report on the technology's risks. Ensuring safety and ethical standards in AI development is becoming increasingly urgent as the technology permeates various sectors.
+
+Meanwhile, CNBC reports that former Director of National Intelligence Jay Clayton has been appointed as the AI czar. His leadership will be pivotal as he heads the task force, focusing on integrating national security with AI advancements.
+
+Reuters echoes this announcement, highlighting Clayton’s unique background in intelligence, which could be instrumental in shaping AI policy.
+
+Switching gears, the BBC warns that AI models might negatively impact young people's body image. Experts are raising alarms about the potential for these technologies to exacerbate mental health issues among vulnerable demographics.
+
+Lastly, The Guardian reports that an OpenAI safety leader has resigned, claiming the company’s culture is “broken.” This resignation raises questions about internal processes and the commitment to safety and ethics at such a prominent AI organization.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

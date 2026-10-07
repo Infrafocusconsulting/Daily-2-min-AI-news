@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 05:00:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-07</title>
+      <description>Companies cutting jobs as investments shift toward AI | Dalio Says We’re Nearing Point Where AI Bubble May Burs | South Korean megachurches probe suspected AI</description>
+      <pubDate>Wed, 07 Oct 2026 05:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-07_AI_Daily_Pulse.mp3" length="1842816" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-07_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-06</title>
       <description>Tech workers who resigned tell New York City Council th | South Korea plans to develop $3.5 billion frontier AI m | South Korea's Lee says AI appears to have been used in </description>

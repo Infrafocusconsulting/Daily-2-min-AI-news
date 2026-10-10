@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:00:14 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-10</title>
+      <description>Anthropic AI Model Went Rogue, Submitted Fake Unsolved  | A.I. Hurricane Models Were Front and Center as Isaias H | Anthropic Cites New AI Misbehavior, Some on Government </description>
+      <pubDate>Sat, 10 Oct 2026 05:00:14 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-10_AI_Daily_Pulse.mp3" length="1846272" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-10_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-09</title>
       <description>Firmus: Nvidia-backed AI data centre firm scraps mega l | India's TCS rises on AI revenue, international business | Modi wants India to power the AI age. Residents are pus</description>

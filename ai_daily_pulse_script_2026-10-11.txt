@@ -1,0 +1,15 @@
+Welcome to the AI Daily Pulse. I'm your host Megha, and today we're covering the six biggest stories reshaping the world of artificial intelligence in the last 24 hours. 
+
+In Silicon Valley, there's a growing chorus of support among AI founders for former President Trump’s call for the industry to self-regulate on safety. According to AP News, many believe that proactive measures are essential to avoid government overreach and foster innovation.
+
+But it’s not all optimism. A stark assessment from The Guardian warns that nuclear war and the malicious use of AI could threaten humanity's survival by 2100. The report highlights the urgent need for ethical frameworks in AI development to mitigate these risks.
+
+In a significant move, Anthropic has decided to remove its model evaluations from the internet, as reported by Gizmodo. This decision reflects a commitment to safety and responsible AI deployment in an increasingly scrutinized landscape.
+
+Meanwhile, Microsoft CEO Satya Nadella has made headlines with his assertion that we should assume all AI models are, in fact, compromised. The Verge points out that this perspective urges companies to take necessary precautions against potential vulnerabilities.
+
+Nadella further emphasized the need for an "emergency brake" for AI models, a control mechanism that humans should oversee. TechCrunch elaborated that this would ensure a layer of safety in case of unforeseen consequences.
+
+Finally, CNBC echoed Nadella’s call for this emergency brake, underscoring its importance in maintaining human oversight in AI technology.
+
+That's all for today's AI Daily Pulse produced using AI tools. I'm Megha — thanks for listening, and I'll be back tomorrow with more updates from the world of AI.

@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 05:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-12</title>
+      <description>TikTok CEO sees major scientific breakthroughs from AI  | Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Par | Singapore's President warns of AI's risk to employment </description>
+      <pubDate>Mon, 12 Oct 2026 05:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-12_AI_Daily_Pulse.mp3" length="1879680" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-12_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-11</title>
       <description>In Silicon Valley, AI founders cheer Trump’s calls for  | Nuclear war and malicious use of AI threaten end of hum | Anthropic Is Banishing Its Model Evals From the Interne</description>

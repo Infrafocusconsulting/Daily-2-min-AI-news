@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 05:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:00:11 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-13</title>
+      <description>IMF cites AI slowdown, spiking yields as looming global | Threat of AI share crash puts world financial stability | How Red Bull's F1 team is using AI to make split</description>
+      <pubDate>Tue, 13 Oct 2026 05:00:11 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-13_AI_Daily_Pulse.mp3" length="1843584" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-13_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-12</title>
       <description>TikTok CEO sees major scientific breakthroughs from AI  | Exclusive | FTX’s Old Bitcoin-Mining Assets Are Now Par | Singapore's President warns of AI's risk to employment </description>

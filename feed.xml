@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 14 Oct 2026 05:00:11 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:00:11 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-15</title>
+      <description>Opinion | The Luddite and the engineer | Anthropic flags revenue surge to investors ahead of sto | Global financial watchdog calls for more human oversigh</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:11 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-15_AI_Daily_Pulse.mp3" length="1746432" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-15_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-14</title>
       <description>Failure of Australia’s Largest IPO in Decades Sends Tre | Can Vibe Coded Apps Replace Adobe and Microsoft? These  | The biggest threat from AI is the sense that we have no</description>

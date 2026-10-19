@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 05:00:14 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:00:09 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-19</title>
+      <description>Singing, Dancing and Getting Dumped by A.I. on Korean T | AI Trade Reversal Pierces Asia’s Star Picks-and | China's economic growth picks up as AI boom boosts expo</description>
+      <pubDate>Mon, 19 Oct 2026 05:00:09 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-19_AI_Daily_Pulse.mp3" length="1785216" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-19_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-18</title>
       <description>America’s $10tn AI infrastructure boom is starting to f | Global economy set for AI | Anthropic turns to lawyers to help AI agents strike dea</description>

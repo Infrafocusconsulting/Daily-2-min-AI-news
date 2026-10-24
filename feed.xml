@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 05:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:00:11 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-24</title>
+      <description>AI Hacks Are Coming Thick and Fast and Overwhelming the | OpenAI says it will no longer train its AI models on th | UK government sets out $800 million of AI security fund</description>
+      <pubDate>Sat, 24 Oct 2026 05:00:11 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-24_AI_Daily_Pulse.mp3" length="1771008" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-24_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-23</title>
       <description>Blackstone Steve Schwarzman Says Chance Encounter Led t | AI oversight needs a different model to banking | Milei’s AI hype outpaces reality</description>

@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Oct 2026 06:02:30 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:00:16 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-28</title>
+      <description>VCs will make billions on Anthropic’s IPO, but Amazon i | Parents sue OpenAI, alleging GPT-4o coached their daugh | The data center boom has an upside: innovation for the </description>
+      <pubDate>Wed, 28 Oct 2026 06:00:16 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-28_AI_Daily_Pulse.mp3" length="1887744" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-28_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-27</title>
       <description>How OpenAI turned its coding tools into dots, an always | Cohere says Alibaba’s Qwen model tried to send a file t | Anthropic’s IPO filing reveals its strategy for keeping</description>

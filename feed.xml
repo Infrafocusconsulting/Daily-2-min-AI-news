@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 06:00:16 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-29</title>
+      <description>Microsoft just shared Azure’s actual revenue in dollars | Google expands AI Search ads globally as core ad growth | Microsoft recorded $10 billion in revenue from OpenAI</description>
+      <pubDate>Thu, 29 Oct 2026 06:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-29_AI_Daily_Pulse.mp3" length="1917696" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-29_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-28</title>
       <description>VCs will make billions on Anthropic’s IPO, but Amazon i | Parents sue OpenAI, alleging GPT-4o coached their daugh | The data center boom has an upside: innovation for the </description>

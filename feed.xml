@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 30 Oct 2026 06:00:12 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:00:09 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-10-31</title>
+      <description>Nvidia weighs playing the cosigner for Nscale’s AI data | Ollie, a privacy | Intel’s stock crashes, knocking $12B from government’s </description>
+      <pubDate>Sat, 31 Oct 2026 06:00:09 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-10-31_AI_Daily_Pulse.mp3" length="1650048" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-10-31_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-30</title>
       <description>You don’t need to believe in a god to get a religious e | AWS will be a $1T business, Jassy says. But first, it w | As search traffic dries up, Reddit announces it’s shift</description>

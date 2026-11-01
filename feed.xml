@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 31 Oct 2026 06:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:00:15 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-01</title>
+      <description>Apple CEO says the company doesn’t ‘want to ship AI for | 4 days left: How TechCrunch Founder Summit helps you ma | Judge allows NAACP lawsuit over xAI data center polluti</description>
+      <pubDate>Sun, 01 Nov 2026 06:00:15 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-01_AI_Daily_Pulse.mp3" length="1861632" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-01_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-10-31</title>
       <description>Nvidia weighs playing the cosigner for Nscale’s AI data | Ollie, a privacy | Intel’s stock crashes, knocking $12B from government’s </description>

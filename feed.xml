@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 02 Nov 2026 06:08:33 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:00:10 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-03</title>
+      <description>Google takes Dreambeans to India in bid to bring AI | Apple may try to increase revenue by doing…something wi | Y Combinator’s Garry Tan uses AI agents so much, he spe</description>
+      <pubDate>Tue, 03 Nov 2026 06:00:10 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-03_AI_Daily_Pulse.mp3" length="1786368" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-03_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-02</title>
       <description>OpenAI might rebrand its data centers as ‘AI compute ca | AI can make tech CEOs’ lives easier. What about everyon | Apple CEO says the company doesn’t ‘want to ship AI for</description>

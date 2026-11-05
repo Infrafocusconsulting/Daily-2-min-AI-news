@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 04 Nov 2026 06:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:00:10 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-05</title>
+      <description>Apple is reportedly cutting budgets for its internal AI | After the midterms, a bigger clash over data centers co | Nintendo's biggest ROM chip supplier is bowing out of t</description>
+      <pubDate>Thu, 05 Nov 2026 06:00:10 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-05_AI_Daily_Pulse.mp3" length="1776000" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-05_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-04</title>
       <description>Anthropic is working on a system to prove AI models’ id | Data centers are turning to old jet engines as the wait | Ted Schlein’s Ballistic Ventures seeks $490M for new fu</description>

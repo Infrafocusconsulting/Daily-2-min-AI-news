@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 05 Nov 2026 06:00:10 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-06</title>
+      <description>Airbnb says it’s launching an AI travel agent in the fi | Meta says US users can now video chat with their Muse A | Meta warns that election backlash against data centers </description>
+      <pubDate>Fri, 06 Nov 2026 06:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-06_AI_Daily_Pulse.mp3" length="1863552" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-06_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-05</title>
       <description>Apple is reportedly cutting budgets for its internal AI | After the midterms, a bigger clash over data centers co | Nintendo's biggest ROM chip supplier is bowing out of t</description>

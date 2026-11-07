@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 06 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-07</title>
+      <description>Crusoe sells troubled Wyoming data center project to Go | OpenAI reportedly raises an additional $11 billion at a | Hundreds of Artex AI hacking tools found publicly expos</description>
+      <pubDate>Sat, 07 Nov 2026 06:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-07_AI_Daily_Pulse.mp3" length="1856256" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-07_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-06</title>
       <description>Airbnb says it’s launching an AI travel agent in the fi | Meta says US users can now video chat with their Muse A | Meta warns that election backlash against data centers </description>

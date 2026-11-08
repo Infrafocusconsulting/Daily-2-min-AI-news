@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 07 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-08</title>
+      <description>After the midterms, things are looking rocky for Elon M | Megaspeed exec was recruited to spy on Nvidia CEO, acco | Crusoe sells troubled Wyoming data center project to Go</description>
+      <pubDate>Sun, 08 Nov 2026 06:00:13 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-08_AI_Daily_Pulse.mp3" length="1695744" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-08_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-07</title>
       <description>Crusoe sells troubled Wyoming data center project to Go | OpenAI reportedly raises an additional $11 billion at a | Hundreds of Artex AI hacking tools found publicly expos</description>

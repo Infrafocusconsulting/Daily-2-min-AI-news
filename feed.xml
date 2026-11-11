@@ -19,7 +19,14 @@
     <itunes:category text="Technology" />
     <itunes:type>episodic</itunes:type>
     <atom:link href="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 10 Nov 2026 06:00:13 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:00:11 -0000</lastBuildDate>
+    <item>
+      <title>Daily 2-Minute AI News – 2026-11-11</title>
+      <description>OpenAI acquires Odessia, travel startup created by Sond | OpenAI, Anthropic face new oversight as New York’s AI s | All 7 Anthropic founders will each cash out about $250M</description>
+      <pubDate>Wed, 11 Nov 2026 06:00:11 -0000</pubDate>
+      <enclosure url="https://infrafocusconsulting.github.io/Daily-2-min-AI-news/2026-11-11_AI_Daily_Pulse.mp3" length="1728000" type="audio/mpeg" />
+      <guid isPermaLink="false">ai-daily-pulse-2026-11-11_AI_Daily_Pulse.mp3</guid>
+    </item>
     <item>
       <title>Daily 2-Minute AI News – 2026-11-10</title>
       <description>Anthropic reportedly plans to move forward with IPO pla | Jensen Huang reportedly engaged a PR firm with a histor | A short seller flagged Nvidia CEO’s ties to a suspected</description>
